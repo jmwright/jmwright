@@ -1,8 +1,8 @@
 ![banner image](images/banner_image.jpeg)
 
 <div align="center" dir="auto">
-<a href="https://fosstodon.org/@jmwright" target="_blank" title="Mastodon"><img alt="Mastodon" src="https://github.com/jmwright/jmwright/blob/e351c737f7cdb7e944cdae7407a4d6a96de8255c/images/mastodon-logo-purple.svg" style="width:35px;"/></a>
-&nbsp;&nbsp;
+<a href="https://bsky.app/profile/wrightjmf.bsky.social" target="_blank" title="Bluesky"><img alt="Mastodon" src="https://raw.githubusercontent.com/jmwright/jmwright/refs/heads/main/images/bluesky_butterfly.svg" style="width:35px;"/></a>&nbsp;&nbsp;
+<a href="https://fosstodon.org/@jmwright" target="_blank" title="Mastodon"><img alt="Mastodon" src="https://github.com/jmwright/jmwright/blob/e351c737f7cdb7e944cdae7407a4d6a96de8255c/images/mastodon-logo-purple.svg" style="width:35px;"/></a>&nbsp;&nbsp;
 <a href="https://www.patreon.com/jmwright" target="_blank" title="Patreon (Donate)"><img alt="Patreon" src="https://github.com/jmwright/jmwright/blob/e351c737f7cdb7e944cdae7407a4d6a96de8255c/images/patreon-symbol-1-white-rgb.png" style="width:32px;"/></a>&nbsp;&nbsp;
 </div>
 
@@ -20,3 +20,4 @@ I am a core contributor to the [CadQuery](https://cadquery.readthedocs.io/en/lat
 * [Nimble](https://github.com/Wakoma/nimble/tree/smart_doc) - Wakoma.co project to automatically generate CAD and documentation for their portable internet-in-a-box system.
 * [Push Button Switch](https://codeberg.org/7BIndustries/push-button-switch) - Switch created using 3D printing which allows a user to control a computer by pushing the button.
 * [3D Printed Braille Labels](https://codeberg.org/7BIndustries/braille-label-generator) - Converts English text to a braille label which can be 3D printed ([Try It](https://7bindustries.com/hardware/braille_download.html)).
+
