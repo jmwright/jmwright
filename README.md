@@ -12,12 +12,16 @@ I am a core contributor to the [CadQuery](https://cadquery.readthedocs.io/en/lat
 
 ## Open Source Software
 * [CadQuery](https://cadquery.readthedocs.io/en/latest/) - Python CAD API which allows creation of highly parametric CAD models and assemblies.
-* [Semblage](https://github.com/7BIndustries/Semblage) - Experimental CAD GUI that allows users to create programmatic (code) CAD using mouse clicks.
+* [CQ-editor](https://github.com/CadQuery/CQ-editor) - CadQuery GUI editor based on PyQT that supports Linux, Windows and Mac.
+* [cq-cli](https://github.com/CadQuery/cq-cli) - Command Line Interface for executing CadQuery scripts and writing their output to another format, often used on servers.
 * [opc-build-system](https://github.com/CadQuery/ocp-build-system) - Repository and Continuous Integration configs to build Python wheels for OCP, which makes it possible to install CadQuery from PyPI using pip.
+* [assembly-mesh-plugin](https://github.com/CadQuery/assembly-mesh-plugin) - CadQuery plugin to create a Gmsh mesh of an assembly with corresponding data.
+* [cadquery-freecad-workbench](https://github.com/CadQuery/cadquery-freecad-workbench) - FreeCAD workbench that allows the Macro Editor to execute and display CadQuery models.
 
 ## Open Hardware
 * [Stereoscope](https://codeberg.org/7BIndustries/poc-stereoscope) - Depth perception attachment for wildlife camera traps that allows wildlife populations to be more accurately determined.
 * [Nimble](https://github.com/Wakoma/nimble/tree/smart_doc) - Wakoma.co project to automatically generate CAD and documentation for their portable internet-in-a-box system.
 * [Push Button Switch](https://codeberg.org/7BIndustries/push-button-switch) - Switch created using 3D printing which allows a user to control a computer by pushing the button.
 * [3D Printed Braille Labels](https://codeberg.org/7BIndustries/braille-label-generator) - Converts English text to a braille label which can be 3D printed ([Try It](https://7bindustries.com/hardware/braille_download.html)).
+
 
